@@ -15,7 +15,7 @@
 
 # 5 Project Report in Claude Artifact
 > Submit the Claude Artifact URL link
-> [https://claude.ai/public/artifacts/1bda8624-b51c-440a-833d-85deac716a63]
+> [https://claude.ai/public/artifacts/12d4b7a5-f55b-40ba-9394-c461d2b1f18c]
 
 # 6 Project Explanation Video
 > Pls upload the Video in Google form link
