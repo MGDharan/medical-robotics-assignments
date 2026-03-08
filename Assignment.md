@@ -22,4 +22,4 @@
 
 # 7 Linkedin Post
 > Submit the LinkedIn post URL
-> [LinkedIn post URL]
+> [https://www.linkedin.com/feed/update/urn:li:activity:7436450038899412992/?originTrackingId=5vNrvkV%2BHph6ZJjYwU9Zmg%3D%3D]
